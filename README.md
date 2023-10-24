@@ -1,5 +1,6 @@
 # ulawpubllic-rep
 my first repositiry
-i ma trying to learn github ans it is not that hard.
+i am trying to learn github and it is not that hard.
 
  #i learned now
+ #i updated some spellings mistake
