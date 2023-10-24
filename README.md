@@ -1,2 +1,3 @@
 # ulawpubllic-rep
-my first repositiry
+my first repository
+#latest updtae is spelling mistakes rectified
